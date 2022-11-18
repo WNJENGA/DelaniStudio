@@ -59,18 +59,15 @@ Mail chimp enabled management of audiences suscribed to the site. It works on a 
 ```
 More on MailChimp API  [here](https://mailchimp.com/)
 
-**Credits**
+## Support and contact details
+You can provide feedback or raise any issues/ bugs through the following means:
+* gitau.njenga@student.moringaschool.com
+* Slack me (Moringa-School)  @ Gitau Njenga
 
-1. Willan Njenga - Desinger.
-
-**Links**
-[Delani Studio](https://wnjenga.github.io/DelaniStudio/)
-
-
-
-
-The favicon used is trimmed from https://delanig.com/
+### License
+License used is <a href="https://choosealicense.com/licenses/mit/">MIT License</a>
 
 
+Copyright (c) 2022 
 
 
